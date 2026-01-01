@@ -47,7 +47,28 @@ virtualr-landing-page/
 │   │   ├── Hero.jsx
 │   │   ├── Features.jsx
 │   │   ├── Pricing.jsx
+|   |   ├── Testimonials.jsx
+|   |   ├── Workflow.jsx
 │   │   └── Footer.jsx
+|   |
+|   ├── assets/
+|   |   ├── close-large-line.svg.svg
+|   |   ├── code.jpg
+|   |   ├── logo.png
+|   |   ├── menu-line.svg
+|   |   ├── video1.mp4
+│   │   ├── video2.mp4
+|   |   └── profile-pictures/
+│   │       ├── user1.jpg
+│   │       ├── user2.jpg
+│   │       ├── user3.jpg
+│   │       ├── user4.jpg
+│   │       ├── user5.jpg
+│   │       └── user6.jpg
+|   |
+|   ├── constants/
+|   |   └── index.jsx
+|   |
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
@@ -63,12 +84,12 @@ virtualr-landing-page/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/virtualr-landing-page.git
+   git clone https://github.com/Huzaif-Ibrahim/VirtualR.git
    ```
 
 2. Navigate to the project folder
    ```bash
-   cd virtualr-landing-page
+   cd VirtualR
    ```
 
 3. Install dependencies
@@ -94,6 +115,13 @@ virtualr-landing-page/
 - Practical experience with Tailwind CSS
 - Improved responsive design skills
 - Real-world landing page structure
+
+---
+
+## 🤝 Live Preview
+```
+virtual-r-two-alpha.vercel.app/
+```
 
 ---
 
