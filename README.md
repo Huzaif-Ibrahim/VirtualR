@@ -120,7 +120,7 @@ virtualr-landing-page/
 
 ## 🤝 Live Preview
 
-  [View website](virtual-r-two-alpha.vercel.app/)
+   [🔗View website](virtual-r-two-alpha.vercel.app/)
 
 ---
 
