@@ -127,7 +127,8 @@ virtual-r-two-alpha.vercel.app/
 
 ## 📸 Screenshots
 
-_Add screenshots of the landing page here to make the README more attractive._
+![Website screenshot](./src/assets/screenshot-1.png)
+![Website screenshot](/src/assets/screenshot-2.png)
 
 ---
 
@@ -146,7 +147,7 @@ This project is open-source and available under the **MIT License**.
 ## 👤 Author
 
 **Huzaif Ibrahim**  
-Frontend Developer | React Enthusiast
+Full-stack Developer | Backend Enthusiast
 
 ---
 
