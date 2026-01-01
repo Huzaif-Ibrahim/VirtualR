@@ -119,9 +119,8 @@ virtualr-landing-page/
 ---
 
 ## 🤝 Live Preview
-```
-virtual-r-two-alpha.vercel.app/
-```
+
+  [View website](virtual-r-two-alpha.vercel.app/)
 
 ---
 
